@@ -5,12 +5,20 @@
 
 1. One
 2. Two
-3. Three
--    
+3. Three   
 
   # tilte
   ## subtitle
 
 
 # modyfikacja 2
-i jakiś tekst 
+i jakiś tekst
+
+### lista
+- lista
+  - 1
+  - 2
+    - 2.1
+      - 2.1.1
+    -2.2
+  - 3
