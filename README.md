@@ -22,3 +22,5 @@ i jakiś tekst
       - 2.1.1
     -2.2
   - 3
+
+I jeszcze jedna zmiana 
