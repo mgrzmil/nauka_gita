@@ -23,4 +23,6 @@ i jakiś tekst
     -2.2
   - 3
 
-I jeszcze jedna zmiana 
+I jeszcze jedna zmiana
+
+I kolejny raz dla pewności
